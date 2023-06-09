@@ -49,7 +49,10 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 ### 🏆 Certifications
 
 - Oracle Certified Java Programmer (OCPJP): Demonstrated proficiency in Java programming and knowledge of Java SE 8 through this certification.
-
+- Java from Zero to First Job, Practical Guide, 2000+ ExamplesJava from Zero to First Job, Practical Guide, 2000+ Examples
+(Udemy)
+- Building a Face Detection and Recognition Model From Scratch 
+(Udemy)
 ### ⚡ Interests
 
 - Java and Android Development
@@ -59,7 +62,7 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 
 ### 📬 Contact Me
 
-- Email: your_email@example.com
+- Email: jainil.itengg@gmail.com
 - LinkedIn: [Jainil Dalwadi](https://www.linkedin.com/in/jainil-dalwadi/)
 - GitHub: [jainil30](https://github.com/jainil30)
 
