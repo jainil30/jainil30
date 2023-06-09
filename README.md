@@ -60,8 +60,8 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 ### 📬 Contact Me
 
 - Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- LinkedIn: [Jainil Dalwadi](https://www.linkedin.com/in/jainil-dalwadi/)
+- GitHub: [jainil30](https://github.com/jainil30)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I am always excited to learn and grow in the field of Information Technology.
 
