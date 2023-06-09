@@ -1,9 +1,9 @@
 <h1 align="center">I'm Jaini Dalwadi👋</h1>
 
 <p align="center">
-  <a href="mailto:jainil.itengg@gmail.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836"></a>
-  <a href="https://www.linkedin.com/in/jainil-dalwadi/"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/jainil30"><img src="https://img.shields.io/badge/GitHub-Your%20GitHub%20Profile-black?style=flat&logo=github"></a>
+  <a href="mailto:jainil.itengg@gmail.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836">Jainil Dalwadi</a>
+  <a href="https://www.linkedin.com/in/jainil-dalwadi/"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue?style=flat&logo=linkedin">Jainil Dalwadi</a>
+  <a href="https://github.com/jainil30"><img src="https://img.shields.io/badge/GitHub-Your%20GitHub%20Profile-black?style=flat&logo=github">jainil30</a>
 </p>
 
 ## 🌟 Welcome to My Techno Wonderland 🌟
