@@ -1,9 +1,9 @@
 <h1 align="center">I'm Jaini Dalwadi👋</h1>
 
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Your%20GitHub%20Profile-black?style=flat&logo=github"></a>
+  <a href="mailto:jainil.itengg@gmail.com"><img src="https://img.shields.io/badge/Email-your_email%40example.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836"></a>
+  <a href="https://www.linkedin.com/in/jainil-dalwadi/"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/jainil30"><img src="https://img.shields.io/badge/GitHub-Your%20GitHub%20Profile-black?style=flat&logo=github"></a>
 </p>
 
 ## 🌟 Welcome to My Techno Wonderland 🌟
@@ -49,7 +49,7 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 ### 🏆 Certifications
 
 - Oracle Certified Java Programmer (OCPJP): Demonstrated proficiency in Java programming and knowledge of Java SE 8 through this certification.
-- Java from Zero to First Job, Practical Guide, 2000+ ExamplesJava from Zero to First Job, Practical Guide, 2000+ Examples
+- Java from Zero to First Job, Practical Guide, 2000+ Examples
 (Udemy)
 - Building a Face Detection and Recognition Model From Scratch 
 (Udemy)
