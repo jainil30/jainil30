@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jaini Dalwadi👋</h1>
+<h1 align="center">I'm Jainil Dalwadi👋</h1>
 
 <p align="center">
   <a href="mailto:jainil.itengg@gmail.com"><img src="https://img.shields.io/badge/Email-jainil.itengg@gmail.com%40-informational?style=flat&logo=gmail&logoColor=white&color=D14836"></a>
