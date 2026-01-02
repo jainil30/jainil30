@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:jainil.itengg@gmail.com"><img src="https://img.shields.io/badge/Email-jainil.itengg@gmail.com%40-informational?style=flat&logo=gmail&logoColor=white&color=D14836"></a>
-  <a href="https://www.linkedin.com/in/jainil-dalwadi/"><img src="https://img.shields.io/badge/LinkedIn-%20Jainil Dalwadi%20-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/jainil-dalwadi-2002itengg/"><img src="https://img.shields.io/badge/LinkedIn-%20Jainil Dalwadi%20-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/jainil30"><img src="https://img.shields.io/badge/GitHub-jainil30%20%20-black?style=flat&logo=github"></a>
 </p>
 
@@ -63,7 +63,7 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 ### 📬 Contact Me
 
 - Email: jainil.itengg@gmail.com
-- LinkedIn: [Jainil Dalwadi](https://www.linkedin.com/in/jainil-dalwadi/)
+- LinkedIn: [Jainil Dalwadi](https://www.linkedin.com/in/jainil-dalwadi-2002itengg/)
 - GitHub: [jainil30](https://github.com/jainil30)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I am always excited to learn and grow in the field of Information Technology.
