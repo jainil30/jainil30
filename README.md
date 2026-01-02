@@ -18,7 +18,6 @@ I am a passionate student pursuing a Bachelor of Engineering (B.E.) in Informati
 
 - Mobile Development:
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 - Web Development:
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
